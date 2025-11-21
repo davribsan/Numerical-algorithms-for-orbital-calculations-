@@ -32,7 +32,7 @@ These tools allow users to test the accuracy, stability, and computational effic
 - `auxiliar.izzo.py`  
 - `auxiliar.rk4_solver.py`
 
-### Outputs 
+## Outputs 
 The numerical results will not be shown on screen, however they will be saved locally in the same folder under the names:
 - `Lambert_solution_results.txt`  
 - `RK4_results.txt`
